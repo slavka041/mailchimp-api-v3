@@ -13,6 +13,10 @@
         {
             "name": "Chris Magnussen",
             "email": "chris@hirvi.no"
+        },
+        {
+            "name": "Vyacheslav Sinyakov",
+            "email": "vyacheslav.sinyakov@gmail.com"
         }
     ],
     "autoload": {
@@ -21,9 +25,7 @@
         }
     },
     "require": {
-        "php": ">=5.5.0",
-        "guzzlehttp/guzzle": "~5.0|~6.0",
-        "illuminate/support": "~5.0|^6.0|^7.0"
+        "php": ">=5.5.0"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.2"
